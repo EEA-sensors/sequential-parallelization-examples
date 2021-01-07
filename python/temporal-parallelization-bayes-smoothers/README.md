@@ -2,7 +2,7 @@
 
 ### Author: [Adrien Corenflos](https://github.com/AdrienCorenflos/)
 
-These notebooks illustrate the gain in perfomance of using the parallel implementation of Kalman filters and smoothers on GPU. They can downloaded to be run locally or on Google Colab:
+These notebooks illustrate the gain in perfomance of using the parallel implementation of Kalman filters and smoothers on GPU. They can be downloaded to be run locally or on Google Colab:
 - JAX: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EEA-sensors/sequential-parallelization-examples/blob/main/python/temporal-parallelization-bayes-smoothers/parallel_kalman_jax.ipynb)
 - TensorFlow: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EEA-sensors/sequential-parallelization-examples/blob/main/python/temporal-parallelization-bayes-smoothers/parallel_kalman_tf.ipynb)
 
