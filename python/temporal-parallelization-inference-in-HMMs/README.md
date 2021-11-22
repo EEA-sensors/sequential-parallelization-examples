@@ -22,4 +22,4 @@ These notebooks illustrate the gain in perfomance of using the parallel implemen
 
 
 ### References
-[2] S. S. Hassan, S. Särkkä and Á. F. García-Fernández, "Temporal Parallelization of Inference in Hidden Markov Models," in IEEE Transactions on Signal Processing, vol. 69, pp. 4875-4887, 2021, doi: https://10.1109/TSP.2021.3103338.
+[2] S. S. Hassan, S. Särkkä and Á. F. García-Fernández (2021). Temporal Parallelization of Inference in Hidden Markov Models. IEEE Transactions on Signal Processing, Volume: 69, Pages 4875-4887. DOI: https://doi.org/10.1109/TSP.2021.3103338
